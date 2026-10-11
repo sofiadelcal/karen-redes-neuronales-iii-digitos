@@ -5,14 +5,12 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f89939.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Overleaf Project](https://img.shields.io/badge/Overleaf-Documento%20APA%207-47A141.svg)](https://www.overleaf.com/project/6aca7060478245289173ebd0)
-[![Calificación Rúbrica](https://img.shields.io/badge/Rúbrica%20Moodle-5.0%20%2F%205.0%20(10%2F10)-success.svg)](#)
 
 > **Materia:** 608142 – Deep Learning - Conceptos  
 > **Actividad:** R1-A3-S7 -- Redes Neuronales III (Moodle ID: `73333`)  
 > **Autora:** Karen Sofía Delgado Calderon  
 > **Programa:** Especialización en Inteligencia Artificial – Universidad de Cundinamarca  
 > **Fecha de entrega:** Sábado, 10 de octubre de 2026, 23:59  
-> **Proyecto Overleaf:** [https://www.overleaf.com/project/6aca7060478245289173ebd0](https://www.overleaf.com/project/6aca7060478245289173ebd0)
 
 ---
 
