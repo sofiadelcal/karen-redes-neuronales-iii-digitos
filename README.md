@@ -121,8 +121,6 @@ karen-redes-neuronales-iii-digitos/
 ├── requirements.txt               # Dependencias reproducibles (PyTorch, scikit-learn, etc.)
 ├── experimento_redes.py           # Script modular de entrenamiento y evaluación en CPU
 ├── Karen_Redes.ipynb              # Cuaderno Jupyter con celdas ejecutadas y gráficos embebidos
-├── Karen_Redes_Informe.pdf        # Informe formal en formato PDF (Norma APA 7.ª edición)
-├── main.tex                       # Código fuente LaTeX editable (Overleaf)
 ├── modelo_seleccionado.pt         # Pesos sinápticos serializados del modelo óptimo en PyTorch
 ├── experimentos_dev.csv           # Registro consolidado de métricas en desarrollo
 ├── metricas_test.csv              # Registro tabular de evaluación en prueba
