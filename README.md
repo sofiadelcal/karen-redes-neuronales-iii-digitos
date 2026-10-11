@@ -4,7 +4,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-f89939.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Overleaf Project](https://img.shields.io/badge/Overleaf-Documento%20APA%207-47A141.svg)](https://www.overleaf.com/project/6aca7060478245289173ebd0)
 
 > **Materia:** 608142 – Deep Learning - Conceptos  
 > **Actividad:** R1-A3-S7 -- Redes Neuronales III (Moodle ID: `73333`)  
